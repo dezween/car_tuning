@@ -1,0 +1,141 @@
+@media (max-width: 1000px) {
+    .container {
+        width: 100%;
+    }
+
+    .section-title {
+        font-size: 30px;
+    }
+
+    .section-text {
+        font-size: 18px;
+    }
+
+    .menu-item {
+        display: block;
+        line-height: 40px;
+        margin: 0;
+        text-align: center;
+    }
+
+    .header {
+        background-attachment:scroll;
+        height:100%;
+        padding: 0;
+    }
+
+    .header-title {
+        font-size: 50px;
+    }
+
+    .menu-item {
+        font-size: 18px;
+    }
+
+    .car, .tuning {
+        animation: none;
+    }
+
+    .header-text {
+        font-size: 18px;
+    }
+
+    .contacts-card {
+        width: 90%;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .advantages {
+        height: 100%;
+        padding: 40px;
+    }
+
+    .advantages-left, .advantages-right {
+        width: 90%;
+        margin: auto;
+        display: block;
+    }
+
+    .advantages-title {
+        margin-bottom: 20px;
+    }
+
+    .card-container-left, .card-container-right {
+        display: block;
+        width: 100%;
+        position: static;
+    }
+
+    .advantages-card:hover {
+        animation: none;
+        background: none;
+    }
+
+    .cars-card {
+        width: 100%;
+        display: block;
+        margin-bottom: 30px;
+        animation: none;
+    }
+
+    .materials {
+        height: 100%;
+        margin-top: 1000px;
+    }
+
+    .materials-left, .materials-right {
+        width: 100%;
+        display: block;
+    }
+
+    .materials-text {
+        position: static;
+    }
+
+    .materials-title {
+        display: block;
+    }
+
+    .materials-card-img {
+        margin: 0;
+    }
+
+    .materials-card-top {
+        margin: 0;
+    }
+
+    .materials-card {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .services-card {
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+
+    .about {
+        height: 180vh;
+        margin-top: 1000px;
+    }
+
+    .about-text {
+        width: 90%;
+    }
+
+    .about-content-right, .about-content-left  {
+        width: 100%;
+        display: block;
+    }
+
+    .projects-img {
+        display: block;
+        width: 100%;
+    }
+
+    .projects-img:hover {
+        animation: none;
+    }
+}
